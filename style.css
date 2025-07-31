@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: black;
+    display: flex;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin: 150px;
+    margin-right: 400px;
+}
+
+img{
+    margin-top: 150px;
+    margin-right: 70px;
+    border-radius: 30px;
+}
